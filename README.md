@@ -30,7 +30,7 @@ One-click formatted leadership status update, ready to copy and paste into email
 
 ## Live Demo
 
-👉 [See it in action](https://your-vercel-url.vercel.app/#demo) ← *(replace with your Vercel URL after deploying)*
+👉 [See it in action](https://launch-command-center-seven.vercel.app/#demo)
 
 ## Run locally
 
@@ -48,10 +48,9 @@ Then open `http://localhost:5173` for the app or `http://localhost:5173/#demo` f
 3. Import this repo — no configuration needed
 4. Deploy
 
-Your app will be live at `https://your-project-name.vercel.app`
+Your app will be live at https://launch-command-center-seven.vercel.app/ 
 
 ## Built with
-
 - React 18 + Vite
 - No backend, no database — data stored in localStorage
 - IBM Plex Sans (Google Fonts)
