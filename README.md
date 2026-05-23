@@ -1,10 +1,10 @@
 # Launch Command Center ⚡
 
-A Tier 1 launch readiness tracker built for Product Marketing Managers and Launch Program Managers who are done managing high-stakes launches in Google Sheets and slide decks.
+A product launch readiness tracker built for high-stakes launches led by Product Marketing Managers and Launch Program Managers who are done managing high-stakes launches in Google Sheets and slide decks.
 
 ## The problem
 
-When you're running a Tier 1 B2B launch with major revenue implications, your status lives in three places at once: a tracking spreadsheet, a launch deck, and everyone's individual updates. Nothing talks to each other. Leadership asks where things stand and you spend an hour pulling it together.
+When you're running a high-stakes B2B launch with major revenue implications, your status lives in three places at once: a tracking spreadsheet, a launch deck, and everyone's individual updates. Nothing talks to each other. Leadership asks where things stand and you spend an hour pulling it together.
 
 Launch Command Center is the single source of truth. It tracks every function, surfaces blockers automatically, calculates revenue risk in real time, and generates a one-click exec summary you can paste directly into your leadership email.
 
@@ -58,4 +58,4 @@ Your app will be live at `https://your-project-name.vercel.app`
 
 ---
 
-Built by [Carol Grant](https://carolsgrant.com) · GTM Advisor & Founder of [Opolo](https://opolo.ai)
+Built by [Carol Grant](https://carolsgrant.com) · GTM Advisor & Founder of A Stealth EdTech Startup
