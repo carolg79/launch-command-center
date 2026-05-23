@@ -32,18 +32,13 @@ const ALL_FUNCTIONS = [
 // ── DEMO SEQUENCE ──────────────────────────────────────────────
 // Total ≈ 68 s
 const FRAMES = [
-  { id:"s1",  type:"setup",      step:1,              duration:6000,  label:"Entering launch details" },
-  { id:"s2",  type:"setup",      step:2,              duration:5000,  label:"Setting revenue risk inputs" },
-  { id:"s3",  type:"setup",      step:3,              duration:5000,  label:"Selecting functions" },
-  { id:"st",  type:"transition",                      duration:1800,  label:"Opening Command Center..." },
-  { id:"d1",  type:"app", tab:"dashboard",  wsId:null,         duration:9000,  label:"Launch Overview" },
-  { id:"d2",  type:"app", tab:"workstreams",wsId:null,         duration:2500,  label:"All Workstreams" },
-  { id:"d3",  type:"app", tab:"workstreams",wsId:"ws_product", duration:5000,  label:"Product — On Track ✓" },
-  { id:"d4",  type:"app", tab:"workstreams",wsId:"ws_enable",  duration:6000,  label:"Sales Enablement — At Risk ⚠ · 💬 notes" },
-  { id:"d5",  type:"app", tab:"workstreams",wsId:"ws_legal",   duration:5500,  label:"Legal — Blocked 🔴 · 💬 notes" },
-  { id:"d6",  type:"app", tab:"blockers",   wsId:null,         duration:8000,  label:"Active Blockers" },
-  { id:"d7",  type:"app", tab:"activity",   wsId:null,         duration:9000,  label:"Activity — Cross-team Notes 💬" },
-  { id:"d8",  type:"app", tab:"exec",       wsId:null,         duration:9000,  label:"Exec Summary" },
+  { id:"s1",  type:"setup",      step:1,              duration:3500,  label:"Entering launch details" },
+  { id:"s3",  type:"setup",      step:3,              duration:2500,  label:"Selecting functions" },
+  { id:"st",  type:"transition",                      duration:1000,  label:"Opening Command Center..." },
+  { id:"d1",  type:"app", tab:"dashboard",  wsId:null,         duration:8000,  label:"Launch Overview" },
+  { id:"d5",  type:"app", tab:"workstreams",wsId:"ws_legal",   duration:5000,  label:"Legal — Blocked 🔴" },
+  { id:"d7",  type:"app", tab:"activity",   wsId:null,         duration:5000,  label:"Activity — Cross-team Notes 💬" },
+  { id:"d8",  type:"app", tab:"exec",       wsId:null,         duration:7000,  label:"Exec Summary" },
 ];
 
 // ── DEMO DATA ──────────────────────────────────────────────────
